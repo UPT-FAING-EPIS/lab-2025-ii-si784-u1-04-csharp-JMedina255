@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shorten", "Shorten\Shorten.csproj", "{1757BAC4-5947-495F-B710-B05994BC401E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shorten.Tests", "Shorten.Tests\Shorten.Tests.csproj", "{68CC4310-1357-4818-B6EA-48F30427013C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1757BAC4-5947-495F-B710-B05994BC401E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1757BAC4-5947-495F-B710-B05994BC401E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1757BAC4-5947-495F-B710-B05994BC401E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1757BAC4-5947-495F-B710-B05994BC401E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CC4310-1357-4818-B6EA-48F30427013C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CC4310-1357-4818-B6EA-48F30427013C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CC4310-1357-4818-B6EA-48F30427013C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CC4310-1357-4818-B6EA-48F30427013C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
